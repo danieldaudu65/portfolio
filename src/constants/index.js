@@ -20,7 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
-    jobit,
+    ecommerce,
     tripguide,
     threejs,
     web3
@@ -181,7 +181,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but dan proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -189,7 +189,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like dan does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -197,13 +197,14 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After dan optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
+  
   
   const projects = [
     {
@@ -216,7 +217,7 @@ import {
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "threeJs",
           color: "green-text-gradient",
         },
         {
@@ -225,19 +226,19 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/danieldaudu65/Car-Sales",
     },
     {
-      name: "Job IT",
+      name: "Cart Web",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to search for products, view order and get it delivered to thheir dooorstep based on their current location.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "MongoDb",
           color: "green-text-gradient",
         },
         {
@@ -245,8 +246,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: ecommerce,
+      source_code_link: "https://github.com/danieldaudu65/e-commerce-porject-full-dev",
     },
     {
       name: "Trip Guide",
