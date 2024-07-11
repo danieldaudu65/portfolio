@@ -29,7 +29,7 @@ import web3 from "./company/web3.png";
 
 import carrent from "./car-rent.png";
 import ecommerce from "./ecommerce.png";
-import tripguide from "./tripguide.png";
+import tripguide from "./backend-p.png";
 
 export {
   // logo,
