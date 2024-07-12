@@ -250,16 +250,16 @@ const projects = [
     source_code_link: "https://github.com/danieldaudu65/e-commerce-porject-full-dev",
   },
   {
-    name: "Trip Guide",
+    name: "Crypto Verse",
     description:
-      "A robust backend system for an e-commerce platform that manages user accounts, processes orders, handles product inventory, and supports secure payment transactions. It also integrates with third-party services for shipping and logistics, and provides analytics and reporting tools for business insights.",
+      "A comprehensive crypto website built using React, Redux, and SCSS that allows users to track cryptocurrency prices, manage their portfolios, and view detailed analytics. The platform supports secure user authentication, real-time data fetching, and integrates with third-party APIs for up-to-date market information. Additionally, it provides users with customizable dashboards and seamless user experience through responsive design.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Redux",
         color: "green-text-gradient",
       },
       {
@@ -268,7 +268,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/danieldaudu65/back-end-cart",
+    source_code_link: "https://github.com/danieldaudu65/crypto-verse-project",
   },
 ];
 
